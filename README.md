@@ -1,7 +1,8 @@
 ### Hi there 👋
 I'm Evan. A frontend developer. Thank you for visiting my profile. Wish you a happy day! 👏  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evankwolf)](https://github.com/anuraghazra/github-readme-stats)
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=evankwolf&show_icons=true" alt="evankwolf's GitHub Stats" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evankwolf&hide=TSQL" /></a>
 <!--
 **evankwolf/evankwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
