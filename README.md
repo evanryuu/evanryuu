@@ -1,8 +1,17 @@
 ### Hi there 👋
-I'm Evan. A frontend developer. Thank you for visiting my profile. Wish you a happy day! 👏  
+I'm Evan. A frontend developer.
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=evankwolf&show_icons=true" alt="evankwolf's GitHub Stats" /></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evankwolf&hide=TSQL" /></a>
+#### My Profiles
+- 📙 [Juejin](https://juejin.cn/user/427030498524711)
+
+#### My personal projects
+You are welcome trying them and sharing advice 😀
+
+- 📄 [Simple Resume](https://evankwolf.github.io/simple-resume/) - A simple and pure front-end resume generator. 
+- 📦 [Amt-design](https://evankwolf.github.io/amtd/) - My own 'Amt-design'(lol) library for React. Just for practicing.
+
+ #### Thank you for visiting my profile. Wish you a happy day! 👏  
+
 <!--
 **evankwolf/evankwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
