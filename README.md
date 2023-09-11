@@ -7,8 +7,8 @@ I'm Evan. A front-end developer.
 #### My Personal Projects
 You are welcome to try them and share advice 😀
 
-- 📄 [Simple Resume](https://evankwolf.github.io/simple-resume/) - A simple and pure front-end resume generator. 
-- 📦 [Amt-design](https://evankwolf.github.io/amtd/) - My own 'Amt-design'(lol) library for React. Just for practicing.
+- 📄 [Simple Resume](https://evanryuu.github.io/simple-resume/) - A simple and pure front-end resume generator. 
+- 📦 [Amt-design](https://evanryuu.github.io/amtd/) - My own 'Amt-design'(lol) library for React. Just for practicing.
 
  #### Thank you for visiting my profile. Wish you a happy day! 👏  
 
