@@ -1,13 +1,13 @@
 ### Hi there 👋
-I'm Evan. A front-end developer.
-
-#### My Profiles
-- 📙 [Juejin](https://juejin.cn/user/427030498524711)
+I'm Evan. A self-taught front-end developer.
 
 #### My Personal Projects
 You are welcome to try them and share advice 😀
 
-- 📄 [Simple Resume](https://evanryuu.github.io/simple-resume/) - A simple and pure front-end resume generator. 
+- 📄 [Simple Resume](https://evanryuu.github.io/simple-resume/) - A simple and pure front-end resume generator.
+
+#### My Profiles
+- 📙 [Juejin](https://juejin.cn/user/427030498524711)
 
  #### Thank you for visiting my profile. Wish you a happy day! 👏  
 
