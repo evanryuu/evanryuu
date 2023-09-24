@@ -6,9 +6,6 @@ You are welcome to try them and share advice 😀
 
 - 📄 [Simple Resume](https://evanryuu.github.io/simple-resume/) - A simple and pure front-end resume generator.
 
-#### My Profiles
-- 📙 [Juejin](https://juejin.cn/user/427030498524711)
-
  #### Thank you for visiting my profile. Wish you a happy day! 👏  
 
 <!--
