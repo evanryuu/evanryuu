@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Evan. A self-taught front-end developer.
+I'm Evan. A front-end developer.
 
 #### My Personal Projects
 You are welcome to try them and share advice 😀
